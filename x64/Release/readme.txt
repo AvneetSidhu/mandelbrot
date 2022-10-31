@@ -1,0 +1,1 @@
+./mandelbrot.exe zoom(bool) save(bool) screenHeight(int) screenWidth(int) maxIterations(int)

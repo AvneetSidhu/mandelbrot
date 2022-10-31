@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\avnee\source\repos\Mandelbrot\Mandelbrot\main.cpp(93,20): warning C4244: 'initializing': conversion from 'long double' to 'int', possible loss of data
+C:\Users\avnee\source\repos\Mandelbrot\Mandelbrot\main.cpp(100,13): warning C4244: 'initializing': conversion from 'long double' to 'int', possible loss of data
+C:\Users\avnee\source\repos\Mandelbrot\Mandelbrot\main.cpp(101,14): warning C4244: 'initializing': conversion from 'long double' to 'int', possible loss of data
